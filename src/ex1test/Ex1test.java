@@ -21,7 +21,7 @@ public class Ex1test {
             lap.crier();
             i=i+1;
         }
-        
+        System.out.println("mouhahaha");
         
     }
     
